@@ -66,11 +66,11 @@ AI for transportation, healthcare, and education
 🧑‍🏫 4. TEACHING PROFILE - HỒ SƠ GIẢNG DẠY
 
 VN:
-ĐH Bách Khoa TP.HCM – Giảng viên thỉnh giảng
+ĐH Bách Khoa TP.HCM – Giảng viên thỉnh giảng <br/>
 ĐH Nguyễn Tất Thành – Giảng viên cơ hữu (2021–2025)
 
 EN:
-HCMUT – Visiting Lecturer
+HCMUT – Visiting Lecturer <br/>
 NTTU – Lecturer (2021–2025)
 
 🧪 5. RESEARCH SUPERVISION - HƯỚNG DẪN NGHIÊN CỨU
@@ -89,7 +89,7 @@ VN:
 
 Đề tài Quốc gia loại A: AI cho giao thông thông minh
 
-Đề tài Quốc gia loại B: AI chẩn đoán đau thắt lưng
+Đề tài Quốc gia loại B: AI chẩn đoán bệnh
 
 EN:
 
