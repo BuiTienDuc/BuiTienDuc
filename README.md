@@ -99,12 +99,79 @@ National Project Type B: AI for Low Back Pain Diagnosis
 
 📄 7. SELECTED PUBLICATIONS - CÔNG BỐ KHOA HỌC (TIÊU BIỂU)
 
-🔹 ACM — Enhancing Transparency and Traceability Using Blockchain & NFTs
-DOI: 10.1145/3719384.3719450
+🔹 JMM — Journal of Mobile Multimedia (SCOPUS Q2)
 
-🔹 JMM — Traffic Estimation
-🔹 IJACSA — Blockchain for Healthcare
-🔹 MIWAI 2025 — NLP (SCOPUS Q2)
+Crowdsourced Camera Data Fusion for Urban Traffic Estimation and Monitoring
+DOI: 10.13052/jmm1550-4646.2116
+Link: https://journals.riverpublishers.com/index.php/JMM/article/view/27637
+
+🔹 ACM — Blockchain & NFTs (SCOPUS + SCI)
+
+Enhancing Transparency and Traceability in Handicrafts Supply Chains Using Blockchain & NFTs
+Duc Bui Tien, Khiem Huynh Gia, Trung Phan Hoang Tuan
+DOI: 10.1145/3719384.3719450
+Link: https://dl.acm.org/doi/10.1145/3719384.3719450
+
+🔹 ACM — Blockchain for Healthcare (SCOPUS + SCI)
+
+A Blockchain-Based Framework for Managing Electronic Health Records of Farm Animals
+ISBN: 979-8-4007-1792-5
+Link: https://dl.acm.org
+
+🔹 ACM — NFT-based Voting (SCOPUS + SCI)
+
+Cross-Chain Blockchain Voting System with NFT-Based Authentication
+ISBN: 979-8-4007-1792-5
+Link: https://dl.acm.org
+
+🔹 Springer — Intelligence of Things (SCOPUS)
+
+Towards an Approach of Traffic Information Extraction Through ChatGPT
+eBook ISBN 978-3-031-75596-5
+Link: https://link.springer.com/book/10.1007/978-3-031-75596-5
+
+🔹 Springer — ISDS 2024 (SCOPUS)
+
+Traffic Flow Velocity Estimation From Single Camera Data
+ISBN 978-981-97-9613-7
+Link: https://link.springer.com/book/10.1007/978-981-97-9613-7
+
+Developing an AI Vision-Based Approach for Extracting Traffic Information From Images
+Link: https://link.springer.com/book/10.1007/978-981-97-9613-7
+🔹 NEW2AN — LNCS (SCOPUS)
+
+CIDM-BSC: Blockchain & Smart Contract Framework for Disease Modeling
+DOI: 10.1007/978-3-031-60994-7_24
+Link: https://link.springer.com/chapter/10.1007/978-3-031-60994-7_24
+
+From Bricks to Bits: Revolutionizing Real Estate for the Digital World
+Link: https://link.springer.com/chapter/10.1007/978-3-031-60997-8_11
+The Next Horizon in Blood Product Management: Safety, Transparency, and Beyond
+DOI: 10.1007/978-3-031-60997-8_12
+Link: https://link.springer.com/chapter/10.1007/978-3-031-60997-8_12
+🔹 IEEE ICDABI (SCOPUS)
+
+Designing a Data Warehouse Framework for Business Intelligence
+DOI: 10.1109/ICDABI56818.2022.10041706
+Link: https://doi.org/10.1109/ICDABI56818.2022.10041706
+
+🔹 ICAISC — LNCS (SCIE + SCOPUS)
+
+Advancing GDPR Adherence: Leveraging Generative AI for Privacy Policy Analysis in Android Apps
+ISBN 978-3-031-84353-2
+Link: https://link.springer.com/chapter/10.1007/978-3-031-84353-2_5
+
+🔹 IJACSA — International Journal of Advanced Computer Science & Applications (SCIE + SCOPUS)
+
+Developing a Patient-Centric Healthcare IoT Platform with Blockchain and Smart Contracts
+DOI: 10.14569/IJACSA.2024.01504115
+Link: https://thesai.org/Publications/ViewPaper?Volume=15&Issue=4&Code=IJACSA&SerialNo=115
+
+🔹 DIS 2024 — LNCS (SCIE + SCOPUS)
+
+Enhancing Knowledge Management Through Blockchain: Integrating NFTs and IPFS
+ISBN 978-3-031-81010-7
+Link: https://link.springer.com/chapter/10.1007/978-3-031-81010-7_6
 
 🌐 8. PROFESSIONAL MEMBERSHIPS - THÀNH VIÊN HỌC THUẬT
 
