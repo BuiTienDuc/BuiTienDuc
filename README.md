@@ -1,38 +1,36 @@
 🇻🇳 PHIÊN BẢN TIẾNG VIỆT
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2E8B57,100:20B2AA&height=180&section=header&text=Bui%20Tien%20Duc&fontSize=45&fontColor=ffffff&animation=fadeIn" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/BuiTienDuc/BuiTienDuc/main/BUI%20TIEN%20DUC%20Github.jpg" width="150" style="border-radius: 50%; border: 3px solid #2E8B57;" /> </p> <p align="center"> <b>Giảng viên Đại học | Nhà nghiên cứu Trí tuệ Nhân tạo, Blockchain & Khoa học Máy tính</b><br> TP. Hồ Chí Minh, Việt Nam </p>
-1. ABOUT ME — GIỚI THIỆU
+1. ABOUT ME - GIỚI THIỆU
 
 VN:
-Xin chào, tôi là Bùi Tiến Đức, Giảng viên Đại học và Nhà nghiên cứu trong các lĩnh vực Trí tuệ Nhân tạo, Blockchain, Học máy, NLP và Hệ thống thông tin.
-Hiện tôi tham gia giảng dạy và nghiên cứu tại các trường đại học, đồng thời hướng dẫn sinh viên công bố các bài báo thuộc hệ SCOPUS/SCI.
+Xin chào, tôi là Bùi Tiến Đức, Giảng viên Đại học và Nhà nghiên cứu trong các lĩnh vực Trí tuệ Nhân tạo, Blockchain, Học máy, NLP và Hệ thống thông tin. Tôi tham gia giảng dạy và nghiên cứu tại các trường đại học, đồng thời hướng dẫn sinh viên công bố các bài báo thuộc hệ SCOPUS và SCI.
 
 EN:
-Hello, I am Bui Tien Duc, a university lecturer and researcher specializing in Artificial Intelligence, Blockchain, Machine Learning, NLP, and Information Systems.
-I actively teach, conduct research, and supervise students to publish in SCOPUS/SCI-indexed venues.
+Greetings. My name is Bui Tien Duc. I am a university lecturer and researcher specializing in Artificial Intelligence, Blockchain, Machine Learning, NLP, and Information Systems. I actively teach, conduct research, and supervise students to publish in SCOPUS and SCI indexed venues.
 
-2. TEACHING PHILOSOPHY — TRIẾT LÝ GIẢNG DẠY
+2. TEACHING PHILOSOPHY - TRIẾT LÝ GIẢNG DẠY
 
 VN:
-Tôi tin rằng giáo dục hiệu quả cần khơi gợi tư duy phản biện, nuôi dưỡng tinh thần nghiên cứu và tạo môi trường thực hành để sinh viên phát triển năng lực giải quyết vấn đề thực tiễn. Tôi luôn cố gắng kết hợp lý thuyết – mô phỏng – dự án thực tế trong giảng dạy.
+Tôi tin rằng giáo dục hiệu quả cần khơi gợi tư duy phản biện, nuôi dưỡng tinh thần nghiên cứu và tạo môi trường thực hành giúp người học phát triển năng lực giải quyết vấn đề thực tiễn. Tôi luôn kết hợp lý thuyết, mô phỏng và các dự án ứng dụng trong hoạt động giảng dạy.
 
 EN:
-I believe effective education fosters critical thinking, research motivation, and hands-on experience. I integrate theory, simulation, and real-world projects to empower students with practical problem-solving skills.
+I believe that effective education fosters critical thinking, supports the development of research skills, and provides practical learning environments that help students improve their abilities to solve problems in real world scenarios. I integrate theory, simulation, and applied projects into my teaching activities.
 
-3. RESEARCH INTERESTS — LĨNH VỰC NGHIÊN CỨU
+3. RESEARCH INTERESTS - LĨNH VỰC NGHIÊN CỨU
 
 VN:
 
-Trí tuệ Nhân tạo (AI)
+Trí tuệ Nhân tạo
 
-Học máy (Machine Learning)
+Học máy
 
-Blockchain & Smart Contracts
+Blockchain và Smart Contracts
 
-Xử lý ngôn ngữ tự nhiên (NLP)
+Xử lý ngôn ngữ tự nhiên
 
-Kho dữ liệu & Hệ hỗ trợ quyết định
+Kho dữ liệu và Hệ hỗ trợ quyết định
 
-AI trong giao thông, y tế và giáo dục
+Ứng dụng AI trong giao thông, y tế và giáo dục
 
 EN:
 
@@ -40,177 +38,173 @@ Artificial Intelligence
 
 Machine Learning
 
-Blockchain & Smart Contracts
+Blockchain and Smart Contracts
 
 Natural Language Processing
 
-Data Warehousing & Decision Support Systems
+Data Warehousing and Decision Support Systems
 
-AI in Transportation, Healthcare, and Education
+Artificial intelligence applications in transportation, healthcare, and education
 
-4. TEACHING PROFILE — HỒ SƠ GIẢNG DẠY
+4. TEACHING PROFILE - HỒ SƠ GIẢNG DẠY
 
 VN:
 
-⭐ Đại học Bách Khoa TP.HCM — Giảng viên thỉnh giảng (2021–nay)
+⭐ Đại học Bách Khoa TP. HCM – Giảng viên thỉnh giảng (2021 - nay)
 
-Giảng dạy:
+Giảng dạy các môn:
 
 Hệ cơ sở dữ liệu
 
-Kho dữ liệu & DSS
+Kho dữ liệu và DSS
 
 Khai phá dữ liệu
 
 Học máy
 
-Hướng dẫn đồ án tốt nghiệp & công bố quốc tế
+Hướng dẫn đồ án và công bố khoa học
 
-⭐ ĐH Nguyễn Tất Thành — Giảng viên cơ hữu (2021–2025)
+⭐ Đại học Nguyễn Tất Thành – Giảng viên cơ hữu (2021 - 2025)
 
-Bộ môn Kỹ thuật phần mềm / AI
+Bộ môn Kỹ thuật phần mềm và AI
 
 Thiết kế chương trình đào tạo
 
-Hướng dẫn luận văn & nghiên cứu sinh viên
+Hướng dẫn luận văn và nghiên cứu sinh viên
 
 EN:
 
-⭐ Ho Chi Minh City University of Technology — Visiting Lecturer (2021–Present)
+⭐ Ho Chi Minh City University of Technology – Visiting Lecturer (2021 - present)
 
-Courses taught: Database Systems, DSS, Data Mining, Machine Learning, Capstone/Research Supervision
+Courses taught include Database Systems, DSS, Data Mining, Machine Learning, and supervision of capstone and research projects.
 
-⭐ Nguyen Tat Thanh University — Full-time Lecturer (2021–2025)
+⭐ Nguyen Tat Thanh University – Full time Lecturer (2021 - 2025)
 
-Software Engineering / AI · Curriculum Development · Thesis Supervision
+Responsible for Software Engineering and AI courses, curriculum design, and student thesis supervision.
 
-5. RESEARCH SUPERVISION ACHIEVEMENTS — THÀNH TÍCH HƯỚNG DẪN NGHIÊN CỨU
+5. RESEARCH SUPERVISION ACHIEVEMENTS - THÀNH TÍCH HƯỚNG DẪN NGHIÊN CỨU
 
 VN:
-Tôi đã hướng dẫn sinh viên công bố nhiều bài báo thuộc hệ SCOPUS/SCI, gồm:
+Tôi đã hướng dẫn sinh viên công bố các bài báo thuộc hệ SCOPUS và SCI, gồm:
 
-MIWAI 2025 (SCOPUS Q2) – Knowledge-Enhanced Vietnamese Paraphrase Identification
+MIWAI 2025 (SCOPUS Q2)
 
-SOICT 2025 (SCOPUS Q4) – Lightweight Multi-Trait IELTS Essay Scoring
+SOICT 2025 (SCOPUS Q4)
 
-MMMS/VJE 2024 – DSS for Choosing a University Major
+MMMS và VJE 2024
 
 EN:
-I have supervised students to publish in SCOPUS/SCI-indexed venues:
+I have supervised students to publish in SCOPUS and SCI indexed venues, including:
 
-MIWAI 2025 (SCOPUS Q2) — Paraphrase Identification
+MIWAI 2025 (SCOPUS Q2)
 
-SOICT 2025 (SCOPUS Q4) — AI for IELTS Essay Scoring
+SOICT 2025 (SCOPUS Q4)
 
-MMMS/VJE 2024 — Decision Support System for University Major Selection
+MMMS and VJE 2024
 
-6. PUBLICATIONS — CÔNG BỐ KHOA HỌC
+6. PUBLICATIONS - CÔNG BỐ KHOA HỌC
 
-(Thu gọn theo dạng accordion)
+(accordion thu gọn)
 
-<details> <summary><b>📘 SCOPUS / SCI Publications (Click to expand)</b></summary>
+<details> <summary><b>📘 SCOPUS and SCI Publications</b></summary>
 
 VN:
 
-Crowdsourced Camera Data Fusion — JMM (SCOPUS Q2)
+Crowdsourced Camera Data Fusion – JMM
 
-Blockchain-based Healthcare IoT — IJACSA (SCI)
+Blockchain in Healthcare – IJACSA
 
-NFT-based Voting System — ACM (SCOPUS/SCI)
+NFT Voting System – ACM
 
-CIDM-BSC for Disease Modeling — NEW2AN
-
-Và nhiều bài công bố khác…
+CIDM BSC Disease Modeling – NEW2AN
 
 EN:
 
-Crowdsourced Camera Data Fusion — JMM (SCOPUS Q2)
+Crowdsourced Camera Data Fusion – JMM
 
-Blockchain for Healthcare IoT — IJACSA (SCI)
+Blockchain for Healthcare – IJACSA
 
-NFT-based Cross-chain Voting — ACM
+NFT based Voting System – ACM
 
-CIDM-BSC Model — NEW2AN
-
-And several additional publications…
+CIDM BSC Model – NEW2AN
 
 </details>
-7. PROFESSIONAL MEMBERSHIPS — THÀNH VIÊN CHUYÊN MÔN
+7. PROFESSIONAL MEMBERSHIPS - THÀNH VIÊN CHUYÊN MÔN
 
 VN:
 
-ACM Digital Library Member
+ACM Digital Library
 
 EAI Innovating Research
 
-EDAS Conference System
+EDAS
 
-EasyChair Reviewer
+EasyChair
 
 EN:
 
-ACM Digital Library Member
+ACM Digital Library
 
 EAI Innovating Research
 
-EDAS Member
+EDAS
 
-EasyChair Reviewer
+EasyChair
 
-8. REVIEWER SERVICE — HOẠT ĐỘNG PHẢN BIỆN KHOA HỌC
+8. REVIEWER SERVICE - HOẠT ĐỘNG PHẢN BIỆN KHOA HỌC
 
 VN:
 
-Reviewer, ASEAN Engineering Journal (AEJ)
+ASEAN Engineering Journal
 
-Reviewer, ISDS Conference
+ISDS Conference
 
-Reviewer, SOICT 2025
+SOICT 2025
 
 EN:
 
-Reviewer for ASEAN Engineering Journal
+ASEAN Engineering Journal
 
-Reviewer for ISDS Conference
+ISDS Conference
 
-Reviewer for SOICT 2025
+SOICT 2025
 
-9. PROJECT HIGHLIGHTS — DỰ ÁN TIÊU BIỂU
+9. PROJECT HIGHLIGHTS - CÁC DỰ ÁN TIÊU BIỂU
 
 VN:
 
-Hệ thống AI giám sát giao thông thông minh
+Hệ thống AI cho giao thông thông minh
 
-Hệ thống gợi ý chọn ngành đại học dựa trên ML
+Hệ thống tư vấn chọn ngành đại học dùng ML
 
 Nền tảng chuyển đổi số SMEs
 
-Blockchain ứng dụng trong Y tế & Nông nghiệp
+Ứng dụng Blockchain trong y tế và nông nghiệp
 
 EN:
 
-AI Vision for Smart Transportation
+AI systems for smart transportation
 
-ML-based University Major Recommendation System
+University major recommendation system using machine learning
 
-SME Digital Transformation Platform
+SME digital transformation platforms
 
-Blockchain Applications for Healthcare & Agriculture
+Blockchain applications in healthcare and agriculture
 
-10. GITHUB STATS — THỐNG KÊ GITHUB
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BuiTienDuc&show_icons=true&hide_border=true&theme=default" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiTienDuc&layout=compact&hide_border=true&theme=default" height="160" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuiTienDuc&hide_border=true&theme=default" height="180" /> </p>
-11. CONTACT — LIÊN HỆ
+10. GITHUB STATS - THỐNG KÊ GITHUB
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BuiTienDuc&show_icons=true&hide_border=true" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiTienDuc&layout=compact&hide_border=true" height="160" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuiTienDuc&hide_border=true" height="180" /> </p>
+11. CONTACT - LIÊN HỆ
 
 VN:
 📧 Email: tienducut@gmail.com
 
 
-📱 SĐT: 0769 690 731
-📍 Địa chỉ: TP. Hồ Chí Minh
+📱 Điện thoại: 0769 690 731
+📍 TP. Hồ Chí Minh
 
 EN:
 📧 Email: tienducut@gmail.com
 
 
 📱 Phone: +84 769 690 731
-🌍 Location: Ho Chi Minh City, Vietnam
+🌍 Ho Chi Minh City, Vietnam
