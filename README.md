@@ -1,209 +1,40 @@
 🇻🇳 PHIÊN BẢN TIẾNG VIỆT
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:20B2AA&height=180&section=header&text=Bui%20Tien%20Duc&fontSize=45&fontColor=ffffff&animation=fadeIn" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/BuiTienDuc/BuiTienDuc/main/BUI%20TIEN%20DUC%20Github.jpg" width="140" style="border-radius: 50%;" /> </p> <p align="center"> <b>Giảng viên Đại học | Nhà nghiên cứu Trí tuệ Nhân tạo, Blockchain & Khoa học Máy tính</b><br> TP. Hồ Chí Minh, Việt Nam </p>
-📌 MỤC LỤC
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2E8B57,100:20B2AA&height=180&section=header&text=Bui%20Tien%20Duc&fontSize=45&fontColor=ffffff&animation=fadeIn" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/BuiTienDuc/BuiTienDuc/main/BUI%20TIEN%20DUC%20Github.jpg" width="150" style="border-radius: 50%; border: 3px solid #2E8B57;" /> </p> <p align="center"> <b>Giảng viên Đại học | Nhà nghiên cứu Trí tuệ Nhân tạo, Blockchain & Khoa học Máy tính</b><br> TP. Hồ Chí Minh, Việt Nam </p>
+1. ABOUT ME — GIỚI THIỆU
 
-Giới thiệu
+VN:
+Xin chào, tôi là Bùi Tiến Đức, Giảng viên Đại học và Nhà nghiên cứu trong các lĩnh vực Trí tuệ Nhân tạo, Blockchain, Học máy, NLP và Hệ thống thông tin.
+Hiện tôi tham gia giảng dạy và nghiên cứu tại các trường đại học, đồng thời hướng dẫn sinh viên công bố các bài báo thuộc hệ SCOPUS/SCI.
 
-Thông tin cá nhân
+EN:
+Hello, I am Bui Tien Duc, a university lecturer and researcher specializing in Artificial Intelligence, Blockchain, Machine Learning, NLP, and Information Systems.
+I actively teach, conduct research, and supervise students to publish in SCOPUS/SCI-indexed venues.
 
-Mục tiêu nghề nghiệp
+2. TEACHING PHILOSOPHY — TRIẾT LÝ GIẢNG DẠY
 
-Trình độ học vấn
+VN:
+Tôi tin rằng giáo dục hiệu quả cần khơi gợi tư duy phản biện, nuôi dưỡng tinh thần nghiên cứu và tạo môi trường thực hành để sinh viên phát triển năng lực giải quyết vấn đề thực tiễn. Tôi luôn cố gắng kết hợp lý thuyết – mô phỏng – dự án thực tế trong giảng dạy.
 
-Kinh nghiệm giảng dạy
+EN:
+I believe effective education fosters critical thinking, research motivation, and hands-on experience. I integrate theory, simulation, and real-world projects to empower students with practical problem-solving skills.
 
-Kinh nghiệm thực tiễn
+3. RESEARCH INTERESTS — LĨNH VỰC NGHIÊN CỨU
 
-Công bố khoa học
+VN:
 
-Lĩnh vực nghiên cứu
+Trí tuệ Nhân tạo (AI)
 
-Dự án nổi bật
-
-Thống kê GitHub
-
-Liên hệ
-
-English Version Below ↓
-
-👋 GIỚI THIỆU
-
-Xin chào, tôi là Bùi Tiến Đức, Giảng viên Đại học và Nhà nghiên cứu trong các lĩnh vực Trí tuệ Nhân tạo, Blockchain, Học máy, Kho dữ liệu và Hệ thống thông tin.
-
-📧 Email: tienducut@gmail.com
-
-
-📱 0769 690 731
-📍 TP. Hồ Chí Minh
-
-🧑‍💼 THÔNG TIN CÁ NHÂN
-
-Ngày sinh: 06/01/1980
-
-Địa chỉ: 42/7/21C Tân Chánh Hiệp 3, Q12, TP.HCM
-
-ORCID: https://orcid.org/0000-0001-5174-3558
-
-🎯 MỤC TIÊU NGHỀ NGHIỆP
-
-Phát triển học thuật – nghiên cứu – giảng dạy trong môi trường giáo dục chuyên nghiệp, tập trung vào AI, Blockchain, NLP và Hệ thống thông tin.
-
-🎓 TRÌNH ĐỘ HỌC VẤN
-
-Thạc sĩ Khoa học Máy tính – ĐH Bách Khoa TP.HCM
-
-Cử nhân Ngôn ngữ Anh – ĐH KHXH&NV
-
-Hoàn tất yêu cầu đầu vào Nghiên cứu sinh (PhD) – dự kiến xét tuyển 2026.
-
-👨‍🏫 KINH NGHIỆM GIẢNG DẠY
-⭐ Đại học Bách Khoa TP.HCM – Giảng viên thỉnh giảng (2021–nay)
-
-Hệ cơ sở dữ liệu
-
-Kho dữ liệu & Hệ hỗ trợ quyết định
-
-Khai phá dữ liệu
-
-Học máy
-
-Hướng dẫn đồ án tốt nghiệp & nghiên cứu công bố quốc tế
-
-⭐ ĐH Nguyễn Tất Thành – Giảng viên cơ hữu (2021–2025)
-
-Bộ môn Kỹ thuật phần mềm & AI
-
-Xây dựng chương trình đào tạo
-
-Hướng dẫn luận văn & nghiên cứu sinh viên
-
-💼 KINH NGHIỆM THỰC TIỄN
-
-Trưởng nhóm chuyển đổi số Core-Banking – Tập đoàn tài chính JACCS (Nhật Bản)
-(2019–2020)
-
-🏆 CÔNG BỐ KHOA HỌC (Tuyển chọn)
-
-MIWAI 2025 (SCOPUS Q2) – NLP
-
-JMM – Traffic Estimation
-
-IJACSA (SCI) – Blockchain for Healthcare
-
-ACM (SCOPUS+SCI) – NFT-based Voting
-
-NEW2AN – Blockchain Disease Modeling
-
-🔬 LĨNH VỰC NGHIÊN CỨU
-
-Artificial Intelligence (AI)
-
-Machine Learning
+Học máy (Machine Learning)
 
 Blockchain & Smart Contracts
 
-NLP
+Xử lý ngôn ngữ tự nhiên (NLP)
 
-Data Warehouse & Business Intelligence
+Kho dữ liệu & Hệ hỗ trợ quyết định
 
-AI in Transportation, Healthcare, Education
+AI trong giao thông, y tế và giáo dục
 
-🧩 DỰ ÁN NỔI BẬT
-
-Smart Transportation AI
-
-University Major Recommendation System
-
-SME Digital Transformation Platform
-
-Blockchain for Healthcare & Agriculture
-
-📊 THỐNG KÊ GITHUB
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BuiTienDuc&show_icons=true&hide_border=true" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiTienDuc&layout=compact&hide_border=true" height="160" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuiTienDuc&hide_border=true" height="180" /> </p>
-📫 LIÊN HỆ
-
-📧 tienducut@gmail.com
-
-
-📱 0769 690 731
-📍 TP. Hồ Chí Minh
-
-<p align="center">
-  <hr style="width:60%; height:3px; border:none; background-color:#9C27B0; border-radius:5px;" />
-</p> <br/>
-
-
-🇬🇧 ENGLISH VERSION
-<p align="center"> <b>University Lecturer | AI, Blockchain & Computer Science Researcher</b> </p>
-👋 INTRODUCTION
-
-Hello! I'm Bui Tien Duc, a lecturer and researcher specializing in Artificial Intelligence, Blockchain, Machine Learning, NLP, and Information Systems.
-
-📍 Ho Chi Minh City, Vietnam
-📧 Email: tienducut@gmail.com
-
-
-📱 +84 769 690 731
-
-🧑‍💼 PERSONAL INFORMATION
-
-Date of Birth: 06 January 1980
-
-Address: Ho Chi Minh City, Vietnam
-
-ORCID: https://orcid.org/0000-0001-5174-3558
-
-🎯 CAREER OBJECTIVE
-
-To contribute to academia and research through high-quality teaching, scientific publications, and AI-driven solutions.
-
-🎓 EDUCATION
-
-MSc in Computer Science – HCMUT
-
-BA in English Linguistics – USSH
-
-Completed PhD entrance requirements (expected intake 2026).
-
-👨‍🏫 TEACHING EXPERIENCE
-⭐ Visiting Lecturer – HCMUT (2021–Present)
-
-Database Systems
-
-Data Warehousing & Decision Support
-
-Data Mining
-
-Machine Learning
-
-Supervising Capstone & SCOPUS/SCI Publications
-
-⭐ Lecturer – Nguyen Tat Thanh University (2021–2025)
-
-Software Engineering / Artificial Intelligence
-
-Curriculum Development
-
-Thesis Supervision
-
-💼 INDUSTRY EXPERIENCE
-
-Digital Transformation Lead (Core-Banking)
-JACCS International Finance Corporation (Japan), 2019–2020
-
-🏆 SELECTED PUBLICATIONS
-
-NLP – MIWAI 2025 (SCOPUS Q2)
-
-Traffic Estimation – JMM
-
-Healthcare Blockchain – IJACSA (SCI)
-
-NFT-based Voting – ACM
-
-Blockchain for Disease Modeling – NEW2AN
-
-🔬 RESEARCH INTERESTS
+EN:
 
 Artificial Intelligence
 
@@ -213,24 +44,173 @@ Blockchain & Smart Contracts
 
 Natural Language Processing
 
-Data Warehousing
+Data Warehousing & Decision Support Systems
 
-AI for Transportation, Healthcare, Education
+AI in Transportation, Healthcare, and Education
 
-🧩 HIGHLIGHTED PROJECTS
+4. TEACHING PROFILE — HỒ SƠ GIẢNG DẠY
 
-AI Vision Systems for Smart Transportation
+VN:
 
-ML-based Career Recommendation System
+⭐ Đại học Bách Khoa TP.HCM — Giảng viên thỉnh giảng (2021–nay)
+
+Giảng dạy:
+
+Hệ cơ sở dữ liệu
+
+Kho dữ liệu & DSS
+
+Khai phá dữ liệu
+
+Học máy
+
+Hướng dẫn đồ án tốt nghiệp & công bố quốc tế
+
+⭐ ĐH Nguyễn Tất Thành — Giảng viên cơ hữu (2021–2025)
+
+Bộ môn Kỹ thuật phần mềm / AI
+
+Thiết kế chương trình đào tạo
+
+Hướng dẫn luận văn & nghiên cứu sinh viên
+
+EN:
+
+⭐ Ho Chi Minh City University of Technology — Visiting Lecturer (2021–Present)
+
+Courses taught: Database Systems, DSS, Data Mining, Machine Learning, Capstone/Research Supervision
+
+⭐ Nguyen Tat Thanh University — Full-time Lecturer (2021–2025)
+
+Software Engineering / AI · Curriculum Development · Thesis Supervision
+
+5. RESEARCH SUPERVISION ACHIEVEMENTS — THÀNH TÍCH HƯỚNG DẪN NGHIÊN CỨU
+
+VN:
+Tôi đã hướng dẫn sinh viên công bố nhiều bài báo thuộc hệ SCOPUS/SCI, gồm:
+
+MIWAI 2025 (SCOPUS Q2) – Knowledge-Enhanced Vietnamese Paraphrase Identification
+
+SOICT 2025 (SCOPUS Q4) – Lightweight Multi-Trait IELTS Essay Scoring
+
+MMMS/VJE 2024 – DSS for Choosing a University Major
+
+EN:
+I have supervised students to publish in SCOPUS/SCI-indexed venues:
+
+MIWAI 2025 (SCOPUS Q2) — Paraphrase Identification
+
+SOICT 2025 (SCOPUS Q4) — AI for IELTS Essay Scoring
+
+MMMS/VJE 2024 — Decision Support System for University Major Selection
+
+6. PUBLICATIONS — CÔNG BỐ KHOA HỌC
+
+(Thu gọn theo dạng accordion)
+
+<details> <summary><b>📘 SCOPUS / SCI Publications (Click to expand)</b></summary>
+
+VN:
+
+Crowdsourced Camera Data Fusion — JMM (SCOPUS Q2)
+
+Blockchain-based Healthcare IoT — IJACSA (SCI)
+
+NFT-based Voting System — ACM (SCOPUS/SCI)
+
+CIDM-BSC for Disease Modeling — NEW2AN
+
+Và nhiều bài công bố khác…
+
+EN:
+
+Crowdsourced Camera Data Fusion — JMM (SCOPUS Q2)
+
+Blockchain for Healthcare IoT — IJACSA (SCI)
+
+NFT-based Cross-chain Voting — ACM
+
+CIDM-BSC Model — NEW2AN
+
+And several additional publications…
+
+</details>
+7. PROFESSIONAL MEMBERSHIPS — THÀNH VIÊN CHUYÊN MÔN
+
+VN:
+
+ACM Digital Library Member
+
+EAI Innovating Research
+
+EDAS Conference System
+
+EasyChair Reviewer
+
+EN:
+
+ACM Digital Library Member
+
+EAI Innovating Research
+
+EDAS Member
+
+EasyChair Reviewer
+
+8. REVIEWER SERVICE — HOẠT ĐỘNG PHẢN BIỆN KHOA HỌC
+
+VN:
+
+Reviewer, ASEAN Engineering Journal (AEJ)
+
+Reviewer, ISDS Conference
+
+Reviewer, SOICT 2025
+
+EN:
+
+Reviewer for ASEAN Engineering Journal
+
+Reviewer for ISDS Conference
+
+Reviewer for SOICT 2025
+
+9. PROJECT HIGHLIGHTS — DỰ ÁN TIÊU BIỂU
+
+VN:
+
+Hệ thống AI giám sát giao thông thông minh
+
+Hệ thống gợi ý chọn ngành đại học dựa trên ML
+
+Nền tảng chuyển đổi số SMEs
+
+Blockchain ứng dụng trong Y tế & Nông nghiệp
+
+EN:
+
+AI Vision for Smart Transportation
+
+ML-based University Major Recommendation System
 
 SME Digital Transformation Platform
 
-Blockchain Applications in Healthcare
+Blockchain Applications for Healthcare & Agriculture
 
-📫 CONTACT
+10. GITHUB STATS — THỐNG KÊ GITHUB
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BuiTienDuc&show_icons=true&hide_border=true&theme=default" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiTienDuc&layout=compact&hide_border=true&theme=default" height="160" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuiTienDuc&hide_border=true&theme=default" height="180" /> </p>
+11. CONTACT — LIÊN HỆ
 
-📧 tienducut@gmail.com
+VN:
+📧 Email: tienducut@gmail.com
 
 
-📱 +84 769 690 731
-🌍 Ho Chi Minh City, Vietnam
+📱 SĐT: 0769 690 731
+📍 Địa chỉ: TP. Hồ Chí Minh
+
+EN:
+📧 Email: tienducut@gmail.com
+
+
+📱 Phone: +84 769 690 731
+🌍 Location: Ho Chi Minh City, Vietnam
